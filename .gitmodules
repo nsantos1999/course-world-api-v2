@@ -1,0 +1,3 @@
+[submodule "course-world-types"]
+	path = course-world-types
+	url = https://github.com/nsantos1999/course-world-types.git
